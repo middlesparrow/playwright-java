@@ -7,7 +7,7 @@ import org.junit.jupiter.api.BeforeAll;
 import java.nio.file.Paths;
 
 public class BaseTest {
-/*
+
     private static Browser browser;
     public static Page page;
 
@@ -37,5 +37,5 @@ public class BaseTest {
     static void tearDown(){
         page.close();
         browser.close();
-    }*/
+    }
 }

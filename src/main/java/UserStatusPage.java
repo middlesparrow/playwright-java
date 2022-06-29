@@ -1,8 +1,8 @@
-/*import com.microsoft.playwright.FrameLocator;
-import com.microsoft.playwright.Page;*/
+import com.microsoft.playwright.FrameLocator;
+import com.microsoft.playwright.Page;
 
 public class UserStatusPage {
-/*
+
     private final Page page;
 
     private final String statuses = "[data-pendo=UserStatusCardStatusDropdown]";
@@ -34,5 +34,5 @@ public class UserStatusPage {
 
         //Locator locator = page.frame(homeFrame).locator(statuses);
         //locator.click();
-    }*/
+    }
 }
